@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ACCA/ACCA.iml" filepath="$PROJECT_DIR$/ACCA/ACCA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProgExtraUtilitiesIOLambdas.iml" filepath="$PROJECT_DIR$/JavaProgExtraUtilitiesIOLambdas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palindrome/Palindrome.iml" filepath="$PROJECT_DIR$/Palindrome/Palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shapes/Shapes.iml" filepath="$PROJECT_DIR$/Shapes/Shapes.iml" />
+    </modules>
+  </component>
+</project>
